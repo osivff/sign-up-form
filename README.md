@@ -1,12 +1,12 @@
 # Sign-Up Form Template
 
-This is a simple sign-up form built with HTML, CSS, and JavaScript. The focus of this project was to implement **form validation** using JavaScript and provide helpful user feedback during input.
+This is a simple sign-up form built with HTML, CSS. The focus of this project was to implement **form validation** using the built in features in HTML and CSS, and provide helpful user feedback during input.
 
 ![Screenshot](./imgs/odin-screenshot.png)
 
 ## ✨ Features
 
-- Custom form validation using JavaScript
+- Custom form validation using HTML
 - Visual feedback for valid and invalid inputs
 - Styled using modern CSS
 - Clear error messages for required fields
@@ -20,10 +20,8 @@ This version of the form is **not responsive**. It is designed for desktop viewi
 
 - **HTML5** – Structure of the form
 - **CSS3** – Styling the layout and form elements
-- **JavaScript** – Input validation and form behavior
 
 ## 📋 Validation Rules
-
 - First name and last name are required
 - Email must be in a valid email format
 - Password and confirm password must match
@@ -31,8 +29,8 @@ This version of the form is **not responsive**. It is designed for desktop viewi
 
 ## 🧠 Lessons Learned
 - Gained hands-on experience building form validation from scratch
-- Improved understanding of input events and DOM manipulation
-- Learned how to give helpful user feedback with JavaScript
+- Learned to use HTML built in validation format
+- Learned to style form elements in CSS
 
 ## 📌 Future Improvements
 - Make the form fully responsive for mobile and tablet
